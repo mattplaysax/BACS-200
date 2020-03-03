@@ -3,10 +3,10 @@ body {
 }
 
 header {
-    border: solid 3px rosybrown;
-    background-color: floralwhite;
+    border: solid 3px purple;
+    background-color: gold;
     text-align: center;
-    font-family: Cursive, Lucida Console;
+    font-family: fantasy;
     border-radius: 25px;
     width: 900px;
     margin: auto;
@@ -14,9 +14,9 @@ header {
 }
 
 main {
-    border: solid 3px rosybrown;
-    background-color: lightgoldenrodyellow;
-    font-family: Cursive, Lucida Console;
+    border: solid 3px gold;
+    background-color: plum;
+    font-family: fantasy;
     border-radius: 25px;
     width: 900px;
     margin: auto;
@@ -31,7 +31,7 @@ h1 {
 }
 
 aside {
-    background-color: floralwhite;
+    background-color: greenyellow;
     border: solid 2px;
     padding-right: 300px;
     float: right

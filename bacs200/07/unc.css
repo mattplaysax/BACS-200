@@ -1,13 +1,13 @@
 body {
-    background-color: white;
+    background-color: plum;
 }
 
 h1 {
-    color: yellow;
-    border: 1px solid gray;
+    color: whitesmoke;
+    border: 2px solid white;
     background-color: black;
 }
 
 a {
-    color: red;
+    color: greenyellow;
 }
