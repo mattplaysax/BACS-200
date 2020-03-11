@@ -1,0 +1,24 @@
+h1 {
+    color: white;
+}
+
+li {
+    color: green;
+}
+
+a {
+    color:green;
+}
+body {
+    background-color: aqua;
+}
+
+h1 {
+    color: black;
+    border: 1px solid ;
+    background-color: orange;
+}
+
+a {
+    color: black;
+}

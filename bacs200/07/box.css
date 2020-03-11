@@ -6,7 +6,7 @@
 
 body {
     border: solid 3px black;
-    background-color: gray;
+    background-color: orange;
 }
 
 header {
@@ -15,8 +15,8 @@ header {
 }
 
 footer {
-    border: solid 3px green;
-    background-color: lightgreen;
+    border: solid 3px pink;
+    background-color: lightpink;
 }
 
 main {
